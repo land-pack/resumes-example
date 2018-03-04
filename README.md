@@ -6,8 +6,21 @@ All you need is modify the basic information as you expect to show! feel free to
 Example templates
 ============
 
-![bluesky](https://github.com/land-pack/resumes-example/blob/master/images/bluesky.png)
 
+How to used the template?
+======
+
+There are some text fields I have `lock` to prevent jitter, if you like to modify it
+Just do unlock first! 
+
+    Step 01:
+        Check your Right side (Arrange)
+    
+    Step 02:
+        Switch to (Stay on page under Object Placement)
+
+    Step 03:
+        Lock & Unlock 
 
 
 Join This
