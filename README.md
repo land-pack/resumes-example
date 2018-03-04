@@ -22,6 +22,7 @@ Just do unlock first!
     Step 03:
         Lock & Unlock 
 
+ [Tutorial](https://github.com/land-pack/resumes-example/tree/master/tutorial)
 
 Join This
 ===========
