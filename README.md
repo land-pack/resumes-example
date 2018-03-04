@@ -6,4 +6,4 @@ All you need is modify the basic information as you expect to show! feel free to
 Example templates
 ============
 
-![bluesky](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![bluesky](https://github.com/land-pack/resumes-example/blob/master/images/bluesky.png)
